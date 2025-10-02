@@ -52,7 +52,7 @@ Core Features: The web application features include:
 •	Modern and user-friendly design
 •	Mobile responsive
 •	Colour scheme: Clean, professional, and minimal (e.g., blues and whites)
-•	Optional: Interactive charts to visualise dataset issues
+
 ### Conclusion
 DataGenie demonstrates my ability to design and deliver AI-driven solutions that tackle real-world business challenges. By automating the cleaning, normalization, and merging of heterogeneous datasets, this platform transforms fragmented, error-prone data into actionable insights with minimal manual effort. Beyond technical implementation, DataGenie showcases my skill in bridging AI technology with business needs—enabling faster decision-making, improving operational efficiency, and ensuring data reliability. This project highlights not only my proficiency in AI and full-stack development but also my focus on creating tools that deliver tangible value to professionals, businesses, and industries.
 
