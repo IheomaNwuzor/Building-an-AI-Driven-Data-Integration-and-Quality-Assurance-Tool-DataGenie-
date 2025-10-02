@@ -5,8 +5,11 @@ I tested my AI product and the platform has cleaned 2,847,392 datasets, fixed 15
 
 ### Design methodology:
 Step 1: Brainstormed AI Product Idea
+
 •	Problem: Cleaning and standardising large, heterogeneous datasets from multiple production lines is repetitive, time-consuming, and prone to errors.
+
 •	Target Audience: Professionals, businesses, and recruiters who deal with multi-source datasets and need actionable insights quickly.
+
 •	Simplicity & Value: Focus on automating validation, normalisation, missing value handling, and outlier detection in a single AI-powered platform.
 
 Step 2: Product Details
