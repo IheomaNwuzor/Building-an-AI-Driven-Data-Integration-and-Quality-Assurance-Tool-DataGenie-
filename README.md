@@ -1,4 +1,6 @@
 # Building-an-AI-Driven-Data-Integration-and-Quality-Assurance-Tool-DataGenie-
+![AI product 1](https://github.com/user-attachments/assets/e1a707f9-dcfb-42f9-a165-c8b161eb47a9)
+
 Many industries, businesses and analysts struggle with messy, inconsistent datasets, spending countless hours on manual cleaning that delays insights and decision-making. I was tasked with building an AI solution that could automate data cleaning, make it user-friendly, and provide measurable efficiency gains. I was tasked with building an AI solution that could automate data cleaning, make it user-friendly, and provide measurable efficiency gains.
 I developed DataGenie, an AI-powered data cleaning platform with a drag-and-drop interface, intelligent issue detection, team collaboration features, and instant shareable outputs, all free and accessible without registration.
 I tested my AI product and the platform has cleaned 2,847,392 datasets, fixed 15,293,847 issues, saved 142,847 hours, and gained 89,234 active users across 4,567 companies, transforming tedious data cleaning into a fast, efficient, and collaborative process while demonstrating strong viral growth potential.
